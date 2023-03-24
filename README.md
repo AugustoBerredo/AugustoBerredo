@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Augusto Berredo  👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial+Black&pause=1000&color=000000DC&width=435&lines=Estudante+de+Programa%C3%A7%C3%A3o" alt="Typing SVG" /></a>
-
 - 🔭 Estudante de designer gráfico (Photoshop e CorelDraw) 
 - 🌱 Estudante de HTML, CSS e JS
 - 👯 Estou querendo colaborar em projetos
