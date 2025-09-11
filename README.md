@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Augusto Berredo  👋
 
-- 🔭 Estudante de Power Bi, SQL e Python 
-- 🌱 Estudante de HTML, CSS e JS
+- 🔭 Estudante de Análise de Dados, usuário intermediário de Power Bi.
+- 🌱 Estudante de SQL, Python, HTML, CSS e JS
 - 👯 Estou querendo colaborar em projetos
 - 💬 Pergunte-me sobre meus conhecimentos
 - 📫 Como chegar até mim: augustoberredo@gmail.com
