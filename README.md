@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Augusto Berredo  
 
-Sou profissional de **Logística, Materiais e Operações Industriais**, com mais de **15 anos de experiência** em empresas como **Samsung, Whirlpool, Envision, Tellescom e Amazonaço**.  
+Sou profissional de **Logística, Materiais e Operações Industriais**, com mais de **9 anos de experiência** em empresas como **Samsung, Whirlpool, Envision, Tellescom e Amazonaço**.  
 
 Minha trajetória é marcada pela atuação em:  
 - 📦 Gestão de Estoques e Inventário  
