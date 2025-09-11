@@ -5,6 +5,7 @@
 - 👯 Estou querendo colaborar em projetos
 - 💬 Pergunte-me sobre meus conhecimentos
 - 📫 Como chegar até mim: augustoberredo@gmail.com
+augustoberredo@hotmail.com
 - 😄 Pronouns: Ele/Dele
 
 
