@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Augusto Berredo  👋
 
-- 🔭 Estudante de designer gráfico (Photoshop e CorelDraw) 
+- 🔭 Estudante de Power Bi, SQL. e Python 
 - 🌱 Estudante de HTML, CSS e JS
 - 👯 Estou querendo colaborar em projetos
 - 💬 Pergunte-me sobre meus conhecimentos
